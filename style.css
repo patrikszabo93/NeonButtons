@@ -105,3 +105,13 @@ a span:nth-child(2){
     100% {
         top:100%
     }
+}
+a span:nth-child(3){
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(270deg,transparent);
+    animation: animate2 1s infinite;
+    animation-delay: .5s;
+}
