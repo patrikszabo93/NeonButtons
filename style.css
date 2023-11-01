@@ -55,3 +55,9 @@ a:first-child{
 
         filter: hue-rotate(90deg);
     }
+
+    a span {
+        position: absolute;
+        display: block;
+        
+        }
