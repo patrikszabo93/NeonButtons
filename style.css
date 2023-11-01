@@ -43,3 +43,11 @@ a:hover{
 
 
 }
+
+
+a:first-child{
+
+    filter: hue-rotate(225deg);
+    
+    
+    }
