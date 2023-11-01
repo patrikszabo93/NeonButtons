@@ -61,3 +61,17 @@ a:first-child{
         display: block;
         
         }
+
+        a span:nth-child(1)
+{
+
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent  #03e9f4) ;
+animation: animate1 1s infinite;
+
+
+
+}
